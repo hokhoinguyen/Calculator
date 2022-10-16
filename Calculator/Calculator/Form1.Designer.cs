@@ -46,7 +46,6 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Số A";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -101,6 +100,7 @@
             this.btCong.TabIndex = 2;
             this.btCong.Text = "+";
             this.btCong.UseVisualStyleBackColor = true;
+            this.btCong.Click += new System.EventHandler(this.btCong_Click_1);
             // 
             // Form1
             // 
