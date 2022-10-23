@@ -1,0 +1,8 @@
+D:\KTPM\Calculator\Calculator\CalculatorTesting\bin\Debug\CalculatorTesting.dll
+D:\KTPM\Calculator\Calculator\CalculatorTesting\bin\Debug\CalculatorTesting.pdb
+D:\KTPM\Calculator\Calculator\CalculatorTesting\bin\Debug\Calculator.exe
+D:\KTPM\Calculator\Calculator\CalculatorTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\KTPM\Calculator\Calculator\CalculatorTesting\bin\Debug\Calculator.pdb
+D:\KTPM\Calculator\Calculator\CalculatorTesting\obj\Debug\CalculatorTesting.csprojResolveAssemblyReference.cache
+D:\KTPM\Calculator\Calculator\CalculatorTesting\obj\Debug\CalculatorTesting.dll
+D:\KTPM\Calculator\Calculator\CalculatorTesting\obj\Debug\CalculatorTesting.pdb
