@@ -1,0 +1,13 @@
+30/10/2022 2:36:20 PM	This log contains information about the import operation of the script 'BookStoreScripts.sql' into project 'DBTest' on computer 'C14' by user'admin.
+30/10/2022 2:36:21 PM	Started importing file: C:\Users\admin\Desktop\BookStoreScripts.sql 
+30/10/2022 2:36:21 PM	File name C:\Users\admin\Desktop\BookStoreScripts.sql (size: 9532)
+30/10/2022 2:36:21 PM	Parsing import script
+30/10/2022 2:36:21 PM	Total number of batches in script: 27
+30/10/2022 2:36:21 PM	Total number of statements in script: 9
+30/10/2022 2:36:21 PM	The script was successfully imported into the project.
+30/10/2022 2:36:21 PM	Analyzing schema objects...
+30/10/2022 2:36:21 PM	Scanning project for duplicate elements
+30/10/2022 2:36:21 PM	Finished duplicate element processing
+30/10/2022 2:36:22 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+30/10/2022 2:36:22 PM	A summary of the import was saved to the following location: D:\KN\Calculator\Calculator\DBTest\Import Script Logs\BookStoreScripts_sql_20221030073620.log
+30/10/2022 2:36:22 PM	Click Finish to continue...

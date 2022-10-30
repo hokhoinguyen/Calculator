@@ -1,0 +1,9 @@
+D:\KN\Calculator\Calculator\DBTest\bin\Debug\DBTest.dacpac
+D:\KN\Calculator\Calculator\DBTest\bin\Debug\DBTest.dll
+D:\KN\Calculator\Calculator\DBTest\bin\Debug\DBTest.pdb
+D:\KN\Calculator\Calculator\DBTest\obj\Debug\Model.xml
+D:\KN\Calculator\Calculator\DBTest\obj\Debug\refactor.xml
+D:\KN\Calculator\Calculator\DBTest\obj\Debug\postdeploy.sql
+D:\KN\Calculator\Calculator\DBTest\obj\Debug\predeploy.sql
+D:\KN\Calculator\Calculator\DBTest\obj\Debug\DBTest.dll
+D:\KN\Calculator\Calculator\DBTest\obj\Debug\DBTest.pdb

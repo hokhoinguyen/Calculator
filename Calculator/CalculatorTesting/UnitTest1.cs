@@ -7,6 +7,7 @@ namespace CalculatorTesting
     [TestClass]
     public class UnitTest1
     {
+        public TestContext TestContext { get; set; }
         [TestMethod]
         public void TestCong()
         {
@@ -42,5 +43,32 @@ namespace CalculatorTesting
             Cal cal = new Cal(2, 0);
             cal.Execute("/");
         }
+        [DataSource ("Microsoft.VisualStudio.TestTools.DataSource.CSV", 
+                     @".\Data\TestData.csv", "TestData#csv", DataAccessMethod.Sequential)]
+        [TestMethod]
+        public void TestWithDataSource()
+        {
+            int a = int.Parse(TestContext.DataRow[0].ToString());
+            int b = int.Parse(TestContext.DataRow[1].ToString());
+            string operation = TestContext.DataRow[2].ToString();
+            operation = operation.Remove(0, 1);
+            int expected = int.Parse(TestContext.DataRow[3].ToString());
+            Cal c = new Cal(a, b);
+            Assert.AreEqual(expected, c.Execute(operation));
+        }
+        [TestMethod]
+        public void TestHamSoSanh()
+        {
+            Cal c;
+            int actual;
+            int a, b, expected;
+            a = 3;
+            b = 2;
+            expected = 1;
+            c = new Cal(a, b);
+            actual = c.SoSanh(a, b);
+            Assert.AreEqual(expected, actual);
+        }
     }
+
 }

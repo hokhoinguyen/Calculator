@@ -17,3 +17,12 @@ D:\KTPM\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssem
 D:\KTPM\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
 D:\KTPM\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
 D:\KTPM\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\KN\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\KN\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\KN\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\KN\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\KN\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\KN\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\KN\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\KN\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\KN\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
